@@ -74,6 +74,9 @@ Target tracking scaling automatically adjusts the number of EC2 instances based 
 ## Key Benefits of Auto Scaling
 - **Hands-off Scaling**: AWS automatically manages the scaling of instances, reducing the need for manual intervention.
 - **Improved Performance**: Maintains consistent performance by scaling in response to metrics like CPU utilization.
+
+refer my uploaded file for screenshots. 
+
 - **Cost Efficiency**: Reduces costs by terminating instances when demand decreases, ensuring you're only paying for what you need.
 
 ## Conclusion
