@@ -1,8 +1,4 @@
-# Cloud Computing Lab - Practical 6: Autoscaling Group
-
-**Name**: Dhanshree Dharpure  
-**Roll no.**: 03  
-**Batch**: B1
+Autoscaling Group
 
 ## Overview
 This practical demonstrates the process of creating and configuring an Auto Scaling Group (ASG) on Amazon Web Services (AWS). Auto Scaling Groups are used to automatically adjust the number of EC2 instances based on demand, improving fault tolerance, performance, and cost-efficiency.
